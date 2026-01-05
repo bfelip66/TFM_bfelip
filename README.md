@@ -21,7 +21,7 @@ Per facilitar la navegació pel repositori, el contingut s'organitza de la segü
 ├── LLEGEIX_ME.md                                      # Documentació de l'organització (aquest fitxer).
 ├── 📁 dades/
 │   ├── 📁 originals/                                  # Fitxers de les fonts originals (INE, CGPJ, Ministeris).
-│   └── 📁 processades/                                # Dataset unificat i depurat per a l'anàlisi.
+│   └── 📁 processades/                                # Dataset unificat i depurat per a l'anàlisi / resultats parcials per models.
 └── 📁 notebooks/
     ├── 01_neteja_i_preparacio.ipynb                    # Execució de l'ETL i fusió de fonts.
     └── 02_analisi_exploratoria_i_descriptiva.ipynb     # Models FE, ITS i visualitzacions.
