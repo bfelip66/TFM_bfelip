@@ -19,6 +19,7 @@ Aquest repositori conté el material computacional, les dades originals i els mo
 ├── requirements.txt
 └── Informe_analitic_visual_TFM_Bfelip.pdf
 
+```
 ## 2. Requeriments tècnics.
 
 L’anàlisi s’ha desenvolupat en un entorn **Python 3.8.8**. Per garantir la reproductibilitat dels resultats:
